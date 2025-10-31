@@ -1,0 +1,31 @@
+a = int(input("Enter the first number: "))
+b = int(input("Enter the second number:"))
+#addition
+add = a + b
+print("Addition :",add)
+sub = a - b
+print("Subtraction :",sub)
+mul = a * b
+print("Multiplication :",mul)
+div = a / b
+print("Division  :",div)
+
+b.
+num1 = int(input("Enter Number1: "))
+num2 = int(input("Enter Number2: "))
+
+print(num1 > num2)
+print(num1 < num2)
+print(num1 == num2)
+print(num1 != num2)
+print(num1 >= num2)
+print(num1 <= num2)C.
+a = int(input("Enter Num1:"))
+b = int(input("Enter Num2:"))
+c = int(input("Enter Num3:"))
+
+print("\nLogical Operation Results: ")
+print((a>b) and (b>c))
+print((a>b) or (b>c))
+print(not(a>b))
+print(not(b>c))
